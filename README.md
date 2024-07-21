@@ -11,7 +11,6 @@ Welcome to my GitHub repository showcasing the work I've done during my UI/UX in
 - [Acknowledgements](#acknowledgements)
 
 ## About
-
 This repository contains a collection of my UI/UX projects completed during my internship at CodersCave. Each project includes detailed documentation, design iterations, and final deliverables. The projects demonstrate my skills in user research, wireframing, prototyping, and user testing.
 
 ## Projects
